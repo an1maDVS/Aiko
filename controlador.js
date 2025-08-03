@@ -1,0 +1,1 @@
+let controlador=document.getElementById
